@@ -1,5 +1,7 @@
 # SHA1
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 This project provides a simple SHA-1 hashing function implemented in JavaScript, compatible with Deno and Node.js environments.
 
 ## Features
