@@ -28,4 +28,4 @@ deno run cli.js path/to/file.txt
 ```
 
 ## License
-MIT License
+MIT License — see [LICENSE](LICENSE).
